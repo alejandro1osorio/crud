@@ -17,7 +17,7 @@ npm install
 npm install
 ```
 
-3. Importar la base de datos que se encuentra en la carpeta:
+3. Importar la base de datos que se encuentra en la carpeta, importarla al workbench:
 ```
 database/clientes.sql
 ```
@@ -44,7 +44,7 @@ npm run dev
 npm run serve
 ```
 
-7. abrir el link que aparece luego de ejecutar npm run serve en la terminal del frontend:
+7. abrir el link que aparece luego de ejecutar `npm run serve` en la terminal del frontend:
 ```
 http://localhost:8080/
 ```
