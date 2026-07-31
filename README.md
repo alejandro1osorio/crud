@@ -226,3 +226,12 @@ En resumen, cada capa cumple una función específica:
 - **Acceso a datos:** realiza las operaciones en la base de datos.
 
 Esta separación hace que el proyecto sea más organizado, fácil de mantener y escalable.
+
+--- 
+
+# Vista previa
+
+![database](/img/clientes.png)
+![database](/img/productos.png)
+![database](/img/facturas.png)
+![database](/img/detalle.png)
