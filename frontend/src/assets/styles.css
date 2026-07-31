@@ -1,0 +1,163 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+
+    background:#f4f4f4;
+
+}
+
+.container{
+
+    width:90%;
+    max-width:1000px;
+
+    margin:40px auto;
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:30px;
+
+    color:#2c3e50;
+
+}
+
+form{
+
+    background:white;
+
+    padding:20px;
+
+    border-radius:8px;
+
+    margin-bottom:25px;
+
+    box-shadow:0 0 10px rgba(0,0,0,.1);
+
+}
+
+.form-group{
+
+    margin-bottom:15px;
+
+}
+
+label{
+
+    display:block;
+
+    margin-bottom:5px;
+
+    font-weight:bold;
+
+}
+
+input{
+
+    width:100%;
+
+    padding:10px;
+
+    border:1px solid #ccc;
+
+    border-radius:5px;
+
+}
+
+button{
+
+    padding:10px 18px;
+
+    border:none;
+
+    border-radius:5px;
+
+    cursor:pointer;
+
+    margin-right:10px;
+
+}
+
+.btn-guardar{
+
+    background:#42b983;
+
+    color:white;
+
+}
+
+.btn-cancelar{
+
+    background:#6c757d;
+
+    color:white;
+
+}
+
+.btn-editar{
+
+    background:#ffc107;
+
+}
+
+.btn-eliminar{
+
+    background:#dc3545;
+
+    color:white;
+
+}
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    background:white;
+
+    box-shadow:0 0 10px rgba(0,0,0,.1);
+
+}
+
+th{
+
+    background:#42b983;
+
+    color:white;
+
+    padding:12px;
+
+}
+
+td{
+
+    border:1px solid #ddd;
+
+    padding:12px;
+
+}
+
+tr:nth-child(even){
+
+    background:#f8f8f8;
+
+}
+
+.sin-registros{
+
+    text-align:center;
+
+    padding:20px;
+
+    color:#777;
+
+}
